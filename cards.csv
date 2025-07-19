@@ -1,3 +1,67 @@
-name,cost,type,color,art_file,strength,description
-Brave Warrior,2W,creature,white,art/paralus_Magic_the_Gathering_card_illustration_of_a_young_boy_wi_b7b2992a-6470-4e12-ac61-9fec8fccd3ec.png,2/2,
-Mighty Spell,3R,spell,red,art/paralus_Magic_the_Gathering_card_illustration_of_s_young_blond__626eba8c-7e41-4901-a359-5e3cc1ba3905.png,,Deal 3 damage to any target.
+name,cost,type,subtype,color,colorPT,art_file,stregth,description
+"Anão minerador",1,Creature,Criatura comum 1,Red,Vermelho,,1,
+"Lagarto de fogo",1,Creature,Criatura comum 2,Red,Vermelho,,1,
+"Duende Verde",1,Creature,Criatura comum 3,Red,Vermelho,,1,
+"Leão Flamejante",2,Creature,Criatura rara 1,Red,Vermelho,,2,
+"Rinoceronte de batalha",2,Creature,Criatura rara 2,Red,Vermelho,,2,
+"Exército de Orcs",2,Creature,Criatura rara 3,Red,Vermelho,,2,
+"Dragão de Cobre",3,Creature,Criatura épica 1,Red,Vermelho,,3,
+"Dragão Branco de Olhos Azuis",3,Creature,Criatura épica 2,Red,Vermelho,,3,
+"Lucas, Domador de Dragões",4,Creature,Criatura lendária,Red,Vermelho,,5,
+"Bola de fogo",3,Spell,Efeito 1,Red,Vermelho,, ,"2 de dano em 3 criaturas diferentes"
+"Grito de batalha",2,Spell,Efeito 2,Red,Vermelho,, ,"+1 de força para todas criaturas nessa rodada"
+"Arremesso de criatura",1,Spell,Efeito 3,Red,Vermelho,, ,"sacrifica uma criatura para destruir uma criatura adversária"
+"Papagaio Verde",1,Creature,Criatura comum 1,Green,Verde,,1,
+"Onça-Pintada",1,Creature,Criatura comum 2,Green,Verde,,1,
+"Mico-Leão Dourado",1,Creature,Criatura comum 3,Green,Verde,,1,
+"Baiana",2,Creature,Criatura rara 1,Green,Verde,,2,
+"Pomba-Gira",2,Creature,Criatura rara 2,Green,Verde,,2,
+"Preto-Velho",2,Creature,Criatura rara 3,Green,Verde,,2,
+"Iansã, Senhora dos Raios",3,Creature,Criatura épica 1,Green,Verde,,3,
+"Oxóssi, Dono da Mata",3,Creature,Criatura épica 2,Green,Verde,,3,
+"Vanessa, Sacerdotisa das Chuvas",4,Creature,Criatura lendária,Green,Verde,,5,
+"Chamado da Alcateia",2,Spell,Efeito 1,Green,Verde,, ,"baixa uma criatura da mão de graça"
+"Cura da Natureza",2,Spell,Efeito 2,Green,Verde,, ,"recupera 3 pontos de vida do jogador"
+"Força Selvagem",2,Spell,Efeito 3,Green,Verde,, ,"+1 de força para uma criatura para sempre"
+"Água-Viva espectral",1,Creature,Criatura comum 1,Blue,Azul,,1,
+"Urso Polar",1,Creature,Criatura comum 2,Blue,Azul,,1,
+"Pirata da Perna de Pau",1,Creature,Criatura comum 3,Blue,Azul,,1,
+"Merlot, Companheiro da Torre",2,Creature,Criatura rara 1,Blue,Azul,,2,
+"Tubarão-Martelo",2,Creature,Criatura rara 2,Blue,Azul,,2,
+"Princesa do gelo",2,Creature,Criatura rara 3,Blue,Azul,,2,
+"Coruja das Neves",3,Creature,Criatura épica 1,Blue,Azul,,3,
+"Polvo Gigante",3,Creature,Criatura épica 2,Blue,Azul,,3,
+"Luiz, Arquimago do Clã",4,Creature,Criatura lendária,Blue,Azul,,5,
+"Contramágica",1,Spell,Efeito 1,Blue,Azul,, ,"Anula uma mágica adversária"
+"Pesquisa de campo",2,Spell,Efeito 2,Blue,Azul,, ,"Compra duas cartas"
+"Congelar",1,Spell,Efeito 3,Blue,Azul,, ,"Vira criatura alvo"
+"Tracy, aranha-robô",1,Creature,Criatura comum 1,White,Branco,,1,
+"Capitão América, o Primeiro Vingador",1,Creature,Criatura comum 2,White,Branco,,1,
+"Batman, Cavaleiro das Trevas",1,Creature,Criatura comum 3,White,Branco,,1,
+"Peter, Homem-Aranha",2,Creature,Criatura rara 1,White,Branco,,2,
+"Gwen, Aranha-Fantasma",2,Creature,Criatura rara 2,White,Branco,,2,
+"Miles, o Spin",2,Creature,Criatura rara 3,White,Branco,,2,
+"Pantera-negra, Rei de Wakanda",3,Creature,Criatura épica 1,White,Branco,,3,
+"Wolwerine, o Invencível",3,Creature,Criatura épica 2,White,Branco,,3,
+"Pedro de Ferro, Protetor da Cidade",4,Creature,Criatura lendária,White,Branco,,5,
+"Raio",2,Spell,Efeito 1,White,Branco,, ,"3 de dano em qualquer criatura"
+"Recrutar Soldados",1,Spell,Efeito 2,White,Branco,, ,"Invoca uma criatura de poder 2 por 1 round"
+"Escudo de Proteção",2,Spell,Efeito 3,White,Branco,, ,"Protege uma criatura de todo dano essa rodada"
+"Esqueleto Arqueiro",1,Creature,Criatura comum 1,Black,Preto,,1,
+"Rato Gigante",1,Creature,Criatura comum 2,Black,Preto,,1,
+"Zumbi do Lago",1,Creature,Criatura comum 3,Black,Preto,,1,
+"Cavaleiro Fantasma",2,Creature,Criatura rara 1,Black,Preto,,2,
+"General Esqueleto",2,Creature,Criatura rara 2,Black,Preto,,2,
+"Ninja das Sombras",2,Creature,Criatura rara 3,Black,Preto,,2,
+"Lobisomem Arruaceiro",3,Creature,Criatura épica 1,Black,Preto,,3,
+"Dragão Zumbi",3,Creature,Criatura épica 2,Black,Preto,,3,
+"Conde Drácula, Senhor dos Vampiros",4,Creature,Criatura lendária,Black,Preto,,5,
+"Destruir Criatura",2,Spell,Efeito 1,Black,Preto,, ,"Destroi qualquer criatura"
+"Mordida do Vampiro",2,Spell,Efeito 2,Black,Preto,, ,"Tira 2 de vida do adversário e dá para o jogador"
+"Segunda Chance",2,Spell,Efeito 3,Black,Preto,, ,"Traz uma criatura destruída de volta ao jogo"
+"Ilha",,Mana,,Blue,,,,
+"Pântano",,Mana,,Black,,,,
+"Montanha",,Mana,,Red,,,,
+"Planície",,Mana,,White,,,,
+"Floresta",,Mana,,Green,,,,
+"Vida",,Life,,,,,,
