@@ -1,4 +1,4 @@
-name,cost,type,subtype,color,colorPT,art_file,stregth,description
+name,cost,type,subtype,color,colorPT,art_file,strength,description
 "Anão minerador",1,Creature,"Criatura comum 1",Red,Vermelho,,1,
 "Lagarto de fogo",1,Creature,"Criatura comum 2",Red,Vermelho,,1,
 "Duende Verde",1,Creature,"Criatura comum 3",Red,Vermelho,,1,
