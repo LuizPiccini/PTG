@@ -29,4 +29,6 @@ Run the generator:
 python3 generate_cards.py cards.csv output_cards
 ```
 
-Generated PNG images will be placed in `output_cards/`.
+Generated JPEG images suitable for printing will be placed in `output_cards/`.
+The output images are CMYK JPEG files at 300 DPI, sized 69×94 mm (including
+3 mm bleed on each side).
