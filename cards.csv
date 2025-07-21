@@ -10,7 +10,7 @@ Dragão Branco de Olhos Azuis,3,Creature,Criatura épica 2,Red,Vermelho,C:/Users
 "Lucas, Domador de Dragões",4,Creature,Criatura lendária,Red,Vermelho,C:/Users/luizh/PTG/art/lucas.png,5,,lucas
 Bola de fogo,3,Spell,Efeito 1,Red,Vermelho,C:/Users/luizh/PTG/art/boladefogo.png,,2 de dano em 3 criaturas diferentes,boladefogo
 Grito de batalha,2,Spell,Efeito 2,Red,Vermelho,C:/Users/luizh/PTG/art/gritodebatalha.png,,+1 de força para todas criaturas nessa rodada,gritodebatalha
-Arremesso de criatura,1,Spell,Efeito 3,Red,Vermelho,C:/Users/luizh/PTG/art/arremessodecriatura.png,,sacrifica uma criatura para destruir uma criatura adversária,arremessodecriatura
+Arremessar criatura,1,Spell,Efeito 3,Red,Vermelho,C:/Users/luizh/PTG/art/arremessarcriatura.png,,sacrifica uma criatura para destruir uma criatura adversária,arremessarcriatura
 Papagaio Verde,1,Creature,Criatura comum 1,Green,Verde,C:/Users/luizh/PTG/art/papagaioverde.png,1,,papagaioverde
 Onça-Pintada,1,Creature,Criatura comum 2,Green,Verde,C:/Users/luizh/PTG/art/oncapintada.png,1,,oncapintada
 Mico-Leão Dourado,1,Creature,Criatura comum 3,Green,Verde,C:/Users/luizh/PTG/art/micoleaodourado.png,1,,micoleaodourado

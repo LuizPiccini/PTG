@@ -14,7 +14,7 @@ a CSV file using Pillow. Card frames and fonts must be supplied separately (see
 Prepare a CSV file with the following columns:
 
 ```
-name,cost,type,subtype,color,art_file,stregth,description
+name,cost,type,subtype,color,art_file,strength,description
 ```
 
 - **name**: Card name
@@ -24,7 +24,7 @@ name,cost,type,subtype,color,art_file,stregth,description
 - **color**: Card colour; determines which frame is used
 - **art_file**: Optional path to artwork image. If omitted, the script will
   look for `art/<slugified name>.png`.
-- **stregth**: Strength value for creatures
+- **strength**: Strength value for creatures
 - **description**: Rules text for spells
 
 Run the generator:
