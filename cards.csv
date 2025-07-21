@@ -1,67 +1,67 @@
-name,cost,type,subtype,color,colorPT,art_file,stregth,description
-"Anão minerador",1,Creature,Criatura comum 1,Red,Vermelho,,1,
-"Lagarto de fogo",1,Creature,Criatura comum 2,Red,Vermelho,,1,
-"Duende Verde",1,Creature,Criatura comum 3,Red,Vermelho,,1,
-"Leão Flamejante",2,Creature,Criatura rara 1,Red,Vermelho,,2,
-"Rinoceronte de batalha",2,Creature,Criatura rara 2,Red,Vermelho,,2,
-"Exército de Orcs",2,Creature,Criatura rara 3,Red,Vermelho,,2,
-"Dragão de Cobre",3,Creature,Criatura épica 1,Red,Vermelho,,3,
-"Dragão Branco de Olhos Azuis",3,Creature,Criatura épica 2,Red,Vermelho,,3,
-"Lucas, Domador de Dragões",4,Creature,Criatura lendária,Red,Vermelho,,5,
-"Bola de fogo",3,Spell,Efeito 1,Red,Vermelho,, ,"2 de dano em 3 criaturas diferentes"
-"Grito de batalha",2,Spell,Efeito 2,Red,Vermelho,, ,"+1 de força para todas criaturas nessa rodada"
-"Arremesso de criatura",1,Spell,Efeito 3,Red,Vermelho,, ,"sacrifica uma criatura para destruir uma criatura adversária"
-"Papagaio Verde",1,Creature,Criatura comum 1,Green,Verde,,1,
-"Onça-Pintada",1,Creature,Criatura comum 2,Green,Verde,,1,
-"Mico-Leão Dourado",1,Creature,Criatura comum 3,Green,Verde,,1,
-"Baiana",2,Creature,Criatura rara 1,Green,Verde,,2,
-"Pomba-Gira",2,Creature,Criatura rara 2,Green,Verde,,2,
-"Preto-Velho",2,Creature,Criatura rara 3,Green,Verde,,2,
-"Iansã, Senhora dos Raios",3,Creature,Criatura épica 1,Green,Verde,,3,
-"Oxóssi, Dono da Mata",3,Creature,Criatura épica 2,Green,Verde,,3,
-"Vanessa, Sacerdotisa das Chuvas",4,Creature,Criatura lendária,Green,Verde,,5,
-"Chamado da Alcateia",2,Spell,Efeito 1,Green,Verde,, ,"baixa uma criatura da mão de graça"
-"Cura da Natureza",2,Spell,Efeito 2,Green,Verde,, ,"recupera 3 pontos de vida do jogador"
-"Força Selvagem",2,Spell,Efeito 3,Green,Verde,, ,"+1 de força para uma criatura para sempre"
-"Água-Viva espectral",1,Creature,Criatura comum 1,Blue,Azul,,1,
-"Urso Polar",1,Creature,Criatura comum 2,Blue,Azul,,1,
-"Pirata da Perna de Pau",1,Creature,Criatura comum 3,Blue,Azul,,1,
-"Merlot, Companheiro da Torre",2,Creature,Criatura rara 1,Blue,Azul,,2,
-"Tubarão-Martelo",2,Creature,Criatura rara 2,Blue,Azul,,2,
-"Princesa do gelo",2,Creature,Criatura rara 3,Blue,Azul,,2,
-"Coruja das Neves",3,Creature,Criatura épica 1,Blue,Azul,,3,
-"Polvo Gigante",3,Creature,Criatura épica 2,Blue,Azul,,3,
-"Luiz, Arquimago do Clã",4,Creature,Criatura lendária,Blue,Azul,,5,
-"Contramágica",1,Spell,Efeito 1,Blue,Azul,, ,"Anula uma mágica adversária"
-"Pesquisa de campo",2,Spell,Efeito 2,Blue,Azul,, ,"Compra duas cartas"
-"Congelar",1,Spell,Efeito 3,Blue,Azul,, ,"Vira criatura alvo"
-"Tracy, aranha-robô",1,Creature,Criatura comum 1,White,Branco,,1,
-"Capitão América, o Primeiro Vingador",1,Creature,Criatura comum 2,White,Branco,,1,
-"Batman, Cavaleiro das Trevas",1,Creature,Criatura comum 3,White,Branco,,1,
-"Peter, Homem-Aranha",2,Creature,Criatura rara 1,White,Branco,,2,
-"Gwen, Aranha-Fantasma",2,Creature,Criatura rara 2,White,Branco,,2,
-"Miles, o Spin",2,Creature,Criatura rara 3,White,Branco,,2,
-"Pantera-negra, Rei de Wakanda",3,Creature,Criatura épica 1,White,Branco,,3,
-"Wolwerine, o Invencível",3,Creature,Criatura épica 2,White,Branco,,3,
-"Pedro de Ferro, Protetor da Cidade",4,Creature,Criatura lendária,White,Branco,,5,
-"Raio",2,Spell,Efeito 1,White,Branco,, ,"3 de dano em qualquer criatura"
-"Recrutar Soldados",1,Spell,Efeito 2,White,Branco,, ,"Invoca uma criatura de poder 2 por 1 round"
-"Escudo de Proteção",2,Spell,Efeito 3,White,Branco,, ,"Protege uma criatura de todo dano essa rodada"
-"Esqueleto Arqueiro",1,Creature,Criatura comum 1,Black,Preto,,1,
-"Rato Gigante",1,Creature,Criatura comum 2,Black,Preto,,1,
-"Zumbi do Lago",1,Creature,Criatura comum 3,Black,Preto,,1,
-"Cavaleiro Fantasma",2,Creature,Criatura rara 1,Black,Preto,,2,
-"General Esqueleto",2,Creature,Criatura rara 2,Black,Preto,,2,
-"Ninja das Sombras",2,Creature,Criatura rara 3,Black,Preto,,2,
-"Lobisomem Arruaceiro",3,Creature,Criatura épica 1,Black,Preto,,3,
-"Dragão Zumbi",3,Creature,Criatura épica 2,Black,Preto,,3,
-"Conde Drácula, Senhor dos Vampiros",4,Creature,Criatura lendária,Black,Preto,,5,
-"Destruir Criatura",2,Spell,Efeito 1,Black,Preto,, ,"Destroi qualquer criatura"
-"Mordida do Vampiro",2,Spell,Efeito 2,Black,Preto,, ,"Tira 2 de vida do adversário e dá para o jogador"
-"Segunda Chance",2,Spell,Efeito 3,Black,Preto,, ,"Traz uma criatura destruída de volta ao jogo"
-"Ilha",,Mana,,Blue,,,,
-"Pântano",,Mana,,Black,,,,
-"Montanha",,Mana,,Red,,,,
-"Planície",,Mana,,White,,,,
-"Floresta",,Mana,,Green,,,,
-"Vida",,Life,,,,,,
+name,cost,type,subtype,color,colorPT,art_file,strength,description,artfile_name
+Anão minerador,1,Creature,Criatura comum 1,Red,Vermelho,C:/Users/luizh/PTG/art/anaominerador.png,1,,anaominerador
+Lagarto de fogo,1,Creature,Criatura comum 2,Red,Vermelho,C:/Users/luizh/PTG/art/lagartodefogo.png,1,,lagartodefogo
+Duende Verde,1,Creature,Criatura comum 3,Red,Vermelho,C:/Users/luizh/PTG/art/duendeverde.png,1,,duendeverde
+Leão Flamejante,2,Creature,Criatura rara 1,Red,Vermelho,C:/Users/luizh/PTG/art/leaoflamejante.png,2,,leaoflamejante
+Rinoceronte de batalha,2,Creature,Criatura rara 2,Red,Vermelho,C:/Users/luizh/PTG/art/rinocerontedebatalha.png,2,,rinocerontedebatalha
+Exército de Orcs,2,Creature,Criatura rara 3,Red,Vermelho,C:/Users/luizh/PTG/art/exercitodeorcs.png,2,,exercitodeorcs
+Dragão de Cobre,3,Creature,Criatura épica 1,Red,Vermelho,C:/Users/luizh/PTG/art/dragaodecobre.png,3,,dragaodecobre
+Dragão Branco de Olhos Azuis,3,Creature,Criatura épica 2,Red,Vermelho,C:/Users/luizh/PTG/art/dragaobrancodeolhosazuis.png,3,,dragaobrancodeolhosazuis
+"Lucas, Domador de Dragões",4,Creature,Criatura lendária,Red,Vermelho,C:/Users/luizh/PTG/art/lucas.png,5,,lucas
+Bola de fogo,3,Spell,Efeito 1,Red,Vermelho,C:/Users/luizh/PTG/art/boladefogo.png,,2 de dano em 3 criaturas diferentes,boladefogo
+Grito de batalha,2,Spell,Efeito 2,Red,Vermelho,C:/Users/luizh/PTG/art/gritodebatalha.png,,+1 de força para todas criaturas nessa rodada,gritodebatalha
+Arremesso de criatura,1,Spell,Efeito 3,Red,Vermelho,C:/Users/luizh/PTG/art/arremessodecriatura.png,,sacrifica uma criatura para destruir uma criatura adversária,arremessodecriatura
+Papagaio Verde,1,Creature,Criatura comum 1,Green,Verde,C:/Users/luizh/PTG/art/papagaioverde.png,1,,papagaioverde
+Onça-Pintada,1,Creature,Criatura comum 2,Green,Verde,C:/Users/luizh/PTG/art/oncapintada.png,1,,oncapintada
+Mico-Leão Dourado,1,Creature,Criatura comum 3,Green,Verde,C:/Users/luizh/PTG/art/micoleaodourado.png,1,,micoleaodourado
+Baiana,2,Creature,Criatura rara 1,Green,Verde,C:/Users/luizh/PTG/art/baiana.png,2,,baiana
+Pomba-Gira,2,Creature,Criatura rara 2,Green,Verde,C:/Users/luizh/PTG/art/pombagira.png,2,,pombagira
+Preto-Velho,2,Creature,Criatura rara 3,Green,Verde,C:/Users/luizh/PTG/art/pretovelho.png,2,,pretovelho
+"Iansã, Senhora dos Raios",3,Creature,Criatura épica 1,Green,Verde,C:/Users/luizh/PTG/art/iansa.png,3,,iansa
+"Oxóssi, Dono da Mata",3,Creature,Criatura épica 2,Green,Verde,C:/Users/luizh/PTG/art/oxossi.png,3,,oxossi
+"Vanessa, Sacerdotisa das Chuvas",4,Creature,Criatura lendária,Green,Verde,C:/Users/luizh/PTG/art/vanessa.png,5,,vanessa
+Chamado da Alcateia,2,Spell,Efeito 1,Green,Verde,C:/Users/luizh/PTG/art/chamadodaalcateia.png,,baixa uma criatura da mão de graça,chamadodaalcateia
+Cura da Natureza,2,Spell,Efeito 2,Green,Verde,C:/Users/luizh/PTG/art/curadanatureza.png,,recupera 3 pontos de vida do jogador,curadanatureza
+Força Selvagem,2,Spell,Efeito 3,Green,Verde,C:/Users/luizh/PTG/art/forcaselvagem.png,,+1 de força para uma criatura para sempre,forcaselvagem
+Água-Viva espectral,1,Creature,Criatura comum 1,Blue,Azul,C:/Users/luizh/PTG/art/aguavivaespectral.png,1,,aguavivaespectral
+Urso Polar,1,Creature,Criatura comum 2,Blue,Azul,C:/Users/luizh/PTG/art/ursopolar.png,1,,ursopolar
+Pirata da Perna de Pau,1,Creature,Criatura comum 3,Blue,Azul,C:/Users/luizh/PTG/art/piratadapernadepau.png,1,,piratadapernadepau
+"Merlot, Companheiro da Torre",2,Creature,Criatura rara 1,Blue,Azul,C:/Users/luizh/PTG/art/merlot.png,2,,merlot
+Tubarão-Martelo,2,Creature,Criatura rara 2,Blue,Azul,C:/Users/luizh/PTG/art/tubaraomartelo.png,2,,tubaraomartelo
+Princesa do gelo,2,Creature,Criatura rara 3,Blue,Azul,C:/Users/luizh/PTG/art/princesadogelo.png,2,,princesadogelo
+Coruja das Neves,3,Creature,Criatura épica 1,Blue,Azul,C:/Users/luizh/PTG/art/corujadasneves.png,3,,corujadasneves
+Polvo Gigante,3,Creature,Criatura épica 2,Blue,Azul,C:/Users/luizh/PTG/art/polvogigante.png,3,,polvogigante
+"Luiz, Arquimago do Clã",4,Creature,Criatura lendária,Blue,Azul,C:/Users/luizh/PTG/art/luiz.png,5,,luiz
+Contramágica,1,Spell,Efeito 1,Blue,Azul,C:/Users/luizh/PTG/art/contramagica.png,,Anula uma mágica adversária,contramagica
+Pesquisa de campo,2,Spell,Efeito 2,Blue,Azul,C:/Users/luizh/PTG/art/pesquisadecampo.png,,Compra duas cartas,pesquisadecampo
+Congelar,1,Spell,Efeito 3,Blue,Azul,C:/Users/luizh/PTG/art/congelar.png,,Vira criatura alvo,congelar
+"Tracy, aranha-robô",1,Creature,Criatura comum 1,White,Branco,C:/Users/luizh/PTG/art/tracy.png,1,,tracy
+"Capitão América, o Primeiro Vingador",1,Creature,Criatura comum 2,White,Branco,C:/Users/luizh/PTG/art/capitaoamerica.png,1,,capitaoamerica
+"Batman, Cavaleiro das Trevas",1,Creature,Criatura comum 3,White,Branco,C:/Users/luizh/PTG/art/batman.png,1,,batman
+"Peter, Homem-Aranha",2,Creature,Criatura rara 1,White,Branco,C:/Users/luizh/PTG/art/peter.png,2,,peter
+"Gwen, Aranha-Fantasma",2,Creature,Criatura rara 2,White,Branco,C:/Users/luizh/PTG/art/gwen.png,2,,gwen
+"Miles, o Spin",2,Creature,Criatura rara 3,White,Branco,C:/Users/luizh/PTG/art/miles.png,2,,miles
+"Pantera-negra, Rei de Wakanda",3,Creature,Criatura épica 1,White,Branco,C:/Users/luizh/PTG/art/panteranegra.png,3,,panteranegra
+"Wolwerine, o Invencível",3,Creature,Criatura épica 2,White,Branco,C:/Users/luizh/PTG/art/wolwerine.png,3,,wolwerine
+"Pedro de Ferro, Protetor da Cidade",4,Creature,Criatura lendária,White,Branco,C:/Users/luizh/PTG/art/pedrodeferro.png,5,,pedrodeferro
+Raio,2,Spell,Efeito 1,White,Branco,C:/Users/luizh/PTG/art/raio.png,,3 de dano em qualquer criatura,raio
+Recrutar Soldados,1,Spell,Efeito 2,White,Branco,C:/Users/luizh/PTG/art/recrutarsoldados.png,,Invoca uma criatura de poder 2 por 1 round,recrutarsoldados
+Escudo de Proteção,2,Spell,Efeito 3,White,Branco,C:/Users/luizh/PTG/art/escudodeprotecao.png,,Protege uma criatura de todo dano essa rodada,escudodeprotecao
+Esqueleto Arqueiro,1,Creature,Criatura comum 1,Black,Preto,C:/Users/luizh/PTG/art/esqueletoarqueiro.png,1,,esqueletoarqueiro
+Rato Gigante,1,Creature,Criatura comum 2,Black,Preto,C:/Users/luizh/PTG/art/ratogigante.png,1,,ratogigante
+Zumbi do Lago,1,Creature,Criatura comum 3,Black,Preto,C:/Users/luizh/PTG/art/zumbidolago.png,1,,zumbidolago
+Cavaleiro Fantasma,2,Creature,Criatura rara 1,Black,Preto,C:/Users/luizh/PTG/art/cavaleirofantasma.png,2,,cavaleirofantasma
+General Esqueleto,2,Creature,Criatura rara 2,Black,Preto,C:/Users/luizh/PTG/art/generalesqueleto.png,2,,generalesqueleto
+Ninja das Sombras,2,Creature,Criatura rara 3,Black,Preto,C:/Users/luizh/PTG/art/ninjadassombras.png,2,,ninjadassombras
+Lobisomem Arruaceiro,3,Creature,Criatura épica 1,Black,Preto,C:/Users/luizh/PTG/art/lobisomem.png,3,,lobisomem
+Dragão Zumbi,3,Creature,Criatura épica 2,Black,Preto,C:/Users/luizh/PTG/art/dragaozumbi.png,3,,dragaozumbi
+"Conde Drácula, Senhor dos Vampiros",4,Creature,Criatura lendária,Black,Preto,C:/Users/luizh/PTG/art/condedracula.png,5,,condedracula
+Destruir Criatura,2,Spell,Efeito 1,Black,Preto,C:/Users/luizh/PTG/art/destruircriatura.png,,Destroi qualquer criatura,destruircriatura
+Mordida do Vampiro,2,Spell,Efeito 2,Black,Preto,C:/Users/luizh/PTG/art/mordidadovampiro.png,,Tira 2 de vida do adversário e dá para o jogador,mordidadovampiro
+Segunda Chance,2,Spell,Efeito 3,Black,Preto,C:/Users/luizh/PTG/art/segundachance.png,,Traz uma criatura destruída de volta ao jogo,segundachance
+Ilha,,Mana,,Blue,,C:/Users/luizh/PTG/art/ilha.png,,,ilha
+Pântano,,Mana,,Black,,C:/Users/luizh/PTG/art/pantano.png,,,pantano
+Montanha,,Mana,,Red,,C:/Users/luizh/PTG/art/montanha.png,,,montanha
+Planície,,Mana,,White,,C:/Users/luizh/PTG/art/planicie.png,,,planicie
+Floresta,,Mana,,Green,,C:/Users/luizh/PTG/art/floresta.png,,,floresta
+Vida,,Life,,,,C:/Users/luizh/PTG/art/vida.png,,,vida
