@@ -1,6 +1,8 @@
 # Card Generator
 
-This repository contains a small tool for generating printable card images from a CSV file.
+This repository contains a small tool for generating printable card images from
+a CSV file using Pillow. Card frames and fonts must be supplied separately (see
+`assets/README.md`).
 
 ## Requirements
 
@@ -12,16 +14,18 @@ This repository contains a small tool for generating printable card images from 
 Prepare a CSV file with the following columns:
 
 ```
-name,cost,type,color,art_file,strength,description
+name,cost,type,subtype,color,art_file,stregth,description
 ```
 
 - **name**: Card name
-- **cost**: Mana or resource cost (e.g., `2W`)
-- **type**: `creature` or `spell`
-- **color**: `white`, `blue`, `black`, `red`, or `green`
-- **art_file**: Path to the artwork image
-- **strength**: Strength value for creatures
-- **description**: Text description for spells
+- **cost**: Mana or resource cost (e.g., `{2}{R}`)
+- **type**: `Creature` or `Spell`
+- **subtype**: Subtype or rules text header
+- **color**: Card colour; determines which frame is used
+- **art_file**: Optional path to artwork image. If omitted, the script will
+  look for `art/<slugified name>.png`.
+- **stregth**: Strength value for creatures
+- **description**: Rules text for spells
 
 Run the generator:
 
@@ -29,6 +33,5 @@ Run the generator:
 python3 generate_cards.py cards.csv output_cards
 ```
 
-Generated JPEG images suitable for printing will be placed in `output_cards/`.
-The output images are CMYK JPEG files at 300 DPI, sized 69×94 mm (including
-3 mm bleed on each side).
+Generated TIFF images suitable for printing will be placed in `output_cards/`.
+The output files are CMYK TIFF images at 300 DPI sized 63×88 mm (no bleed).
