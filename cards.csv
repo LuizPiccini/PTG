@@ -1,67 +1,67 @@
-name,cost,type,subtype,color,colorPT,art_file,strength,description,artfile_name
-Anão minerador,1,Creature,Criatura comum 1,Red,Vermelho,C:/Users/luizh/PTG/art/anaominerador.png,1,,anaominerador
-Lagarto de fogo,1,Creature,Criatura comum 2,Red,Vermelho,C:/Users/luizh/PTG/art/lagartodefogo.png,1,,lagartodefogo
-Duende Verde,1,Creature,Criatura comum 3,Red,Vermelho,C:/Users/luizh/PTG/art/duendeverde.png,1,,duendeverde
-Leão Flamejante,2,Creature,Criatura rara 1,Red,Vermelho,C:/Users/luizh/PTG/art/leaoflamejante.png,2,,leaoflamejante
-Rinoceronte de batalha,2,Creature,Criatura rara 2,Red,Vermelho,C:/Users/luizh/PTG/art/rinocerontedebatalha.png,2,,rinocerontedebatalha
-Exército de Orcs,2,Creature,Criatura rara 3,Red,Vermelho,C:/Users/luizh/PTG/art/exercitodeorcs.png,2,,exercitodeorcs
-Dragão de Cobre,3,Creature,Criatura épica 1,Red,Vermelho,C:/Users/luizh/PTG/art/dragaodecobre.png,3,,dragaodecobre
-Dragão Branco de Olhos Azuis,3,Creature,Criatura épica 2,Red,Vermelho,C:/Users/luizh/PTG/art/dragaobrancodeolhosazuis.png,3,,dragaobrancodeolhosazuis
-"Lucas, Domador de Dragões",4,Creature,Criatura lendária,Red,Vermelho,C:/Users/luizh/PTG/art/lucas.png,5,,lucas
-Bola de fogo,3,Spell,Efeito 1,Red,Vermelho,C:/Users/luizh/PTG/art/boladefogo.png,,2 de dano em 3 criaturas diferentes,boladefogo
-Grito de batalha,2,Spell,Efeito 2,Red,Vermelho,C:/Users/luizh/PTG/art/gritodebatalha.png,,+1 de força para todas criaturas nessa rodada,gritodebatalha
-Arremessar criatura,1,Spell,Efeito 3,Red,Vermelho,C:/Users/luizh/PTG/art/arremessarcriatura.png,,sacrifica uma criatura para destruir uma criatura adversária,arremessarcriatura
-Papagaio Verde,1,Creature,Criatura comum 1,Green,Verde,C:/Users/luizh/PTG/art/papagaioverde.png,1,,papagaioverde
-Onça-Pintada,1,Creature,Criatura comum 2,Green,Verde,C:/Users/luizh/PTG/art/oncapintada.png,1,,oncapintada
-Mico-Leão Dourado,1,Creature,Criatura comum 3,Green,Verde,C:/Users/luizh/PTG/art/micoleaodourado.png,1,,micoleaodourado
-Baiana,2,Creature,Criatura rara 1,Green,Verde,C:/Users/luizh/PTG/art/baiana.png,2,,baiana
-Pomba-Gira,2,Creature,Criatura rara 2,Green,Verde,C:/Users/luizh/PTG/art/pombagira.png,2,,pombagira
-Preto-Velho,2,Creature,Criatura rara 3,Green,Verde,C:/Users/luizh/PTG/art/pretovelho.png,2,,pretovelho
-"Iansã, Senhora dos Raios",3,Creature,Criatura épica 1,Green,Verde,C:/Users/luizh/PTG/art/iansa.png,3,,iansa
-"Oxóssi, Dono da Mata",3,Creature,Criatura épica 2,Green,Verde,C:/Users/luizh/PTG/art/oxossi.png,3,,oxossi
-"Vanessa, Sacerdotisa das Chuvas",4,Creature,Criatura lendária,Green,Verde,C:/Users/luizh/PTG/art/vanessa.png,5,,vanessa
-Chamado da Alcateia,2,Spell,Efeito 1,Green,Verde,C:/Users/luizh/PTG/art/chamadodaalcateia.png,,baixa uma criatura da mão de graça,chamadodaalcateia
-Cura da Natureza,2,Spell,Efeito 2,Green,Verde,C:/Users/luizh/PTG/art/curadanatureza.png,,recupera 3 pontos de vida do jogador,curadanatureza
-Força Selvagem,2,Spell,Efeito 3,Green,Verde,C:/Users/luizh/PTG/art/forcaselvagem.png,,+1 de força para uma criatura para sempre,forcaselvagem
-Água-Viva espectral,1,Creature,Criatura comum 1,Blue,Azul,C:/Users/luizh/PTG/art/aguavivaespectral.png,1,,aguavivaespectral
-Urso Polar,1,Creature,Criatura comum 2,Blue,Azul,C:/Users/luizh/PTG/art/ursopolar.png,1,,ursopolar
-Pirata da Perna de Pau,1,Creature,Criatura comum 3,Blue,Azul,C:/Users/luizh/PTG/art/piratadapernadepau.png,1,,piratadapernadepau
-"Merlot, Companheiro da Torre",2,Creature,Criatura rara 1,Blue,Azul,C:/Users/luizh/PTG/art/merlot.png,2,,merlot
-Tubarão-Martelo,2,Creature,Criatura rara 2,Blue,Azul,C:/Users/luizh/PTG/art/tubaraomartelo.png,2,,tubaraomartelo
-Princesa do gelo,2,Creature,Criatura rara 3,Blue,Azul,C:/Users/luizh/PTG/art/princesadogelo.png,2,,princesadogelo
-Coruja das Neves,3,Creature,Criatura épica 1,Blue,Azul,C:/Users/luizh/PTG/art/corujadasneves.png,3,,corujadasneves
-Polvo Gigante,3,Creature,Criatura épica 2,Blue,Azul,C:/Users/luizh/PTG/art/polvogigante.png,3,,polvogigante
-"Luiz, Arquimago do Clã",4,Creature,Criatura lendária,Blue,Azul,C:/Users/luizh/PTG/art/luiz.png,5,,luiz
-Contramágica,1,Spell,Efeito 1,Blue,Azul,C:/Users/luizh/PTG/art/contramagica.png,,Anula uma mágica adversária,contramagica
-Pesquisa de campo,2,Spell,Efeito 2,Blue,Azul,C:/Users/luizh/PTG/art/pesquisadecampo.png,,Compra duas cartas,pesquisadecampo
-Congelar,1,Spell,Efeito 3,Blue,Azul,C:/Users/luizh/PTG/art/congelar.png,,Vira criatura alvo,congelar
-"Tracy, aranha-robô",1,Creature,Criatura comum 1,White,Branco,C:/Users/luizh/PTG/art/tracy.png,1,,tracy
-"Capitão América, o Primeiro Vingador",1,Creature,Criatura comum 2,White,Branco,C:/Users/luizh/PTG/art/capitaoamerica.png,1,,capitaoamerica
-"Batman, Cavaleiro das Trevas",1,Creature,Criatura comum 3,White,Branco,C:/Users/luizh/PTG/art/batman.png,1,,batman
-"Peter, Homem-Aranha",2,Creature,Criatura rara 1,White,Branco,C:/Users/luizh/PTG/art/peter.png,2,,peter
-"Gwen, Aranha-Fantasma",2,Creature,Criatura rara 2,White,Branco,C:/Users/luizh/PTG/art/gwen.png,2,,gwen
-"Miles, o Spin",2,Creature,Criatura rara 3,White,Branco,C:/Users/luizh/PTG/art/miles.png,2,,miles
-"Pantera-negra, Rei de Wakanda",3,Creature,Criatura épica 1,White,Branco,C:/Users/luizh/PTG/art/panteranegra.png,3,,panteranegra
-"Wolwerine, o Invencível",3,Creature,Criatura épica 2,White,Branco,C:/Users/luizh/PTG/art/wolwerine.png,3,,wolwerine
-"Pedro de Ferro, Protetor da Cidade",4,Creature,Criatura lendária,White,Branco,C:/Users/luizh/PTG/art/pedrodeferro.png,5,,pedrodeferro
-Raio,2,Spell,Efeito 1,White,Branco,C:/Users/luizh/PTG/art/raio.png,,3 de dano em qualquer criatura,raio
-Recrutar Soldados,1,Spell,Efeito 2,White,Branco,C:/Users/luizh/PTG/art/recrutarsoldados.png,,Invoca uma criatura de poder 2 por 1 round,recrutarsoldados
-Escudo de Proteção,2,Spell,Efeito 3,White,Branco,C:/Users/luizh/PTG/art/escudodeprotecao.png,,Protege uma criatura de todo dano essa rodada,escudodeprotecao
-Esqueleto Arqueiro,1,Creature,Criatura comum 1,Black,Preto,C:/Users/luizh/PTG/art/esqueletoarqueiro.png,1,,esqueletoarqueiro
-Rato Gigante,1,Creature,Criatura comum 2,Black,Preto,C:/Users/luizh/PTG/art/ratogigante.png,1,,ratogigante
-Zumbi do Lago,1,Creature,Criatura comum 3,Black,Preto,C:/Users/luizh/PTG/art/zumbidolago.png,1,,zumbidolago
-Cavaleiro Fantasma,2,Creature,Criatura rara 1,Black,Preto,C:/Users/luizh/PTG/art/cavaleirofantasma.png,2,,cavaleirofantasma
-General Esqueleto,2,Creature,Criatura rara 2,Black,Preto,C:/Users/luizh/PTG/art/generalesqueleto.png,2,,generalesqueleto
-Ninja das Sombras,2,Creature,Criatura rara 3,Black,Preto,C:/Users/luizh/PTG/art/ninjadassombras.png,2,,ninjadassombras
-Lobisomem Arruaceiro,3,Creature,Criatura épica 1,Black,Preto,C:/Users/luizh/PTG/art/lobisomem.png,3,,lobisomem
-Dragão Zumbi,3,Creature,Criatura épica 2,Black,Preto,C:/Users/luizh/PTG/art/dragaozumbi.png,3,,dragaozumbi
-"Conde Drácula, Senhor dos Vampiros",4,Creature,Criatura lendária,Black,Preto,C:/Users/luizh/PTG/art/condedracula.png,5,,condedracula
-Destruir Criatura,2,Spell,Efeito 1,Black,Preto,C:/Users/luizh/PTG/art/destruircriatura.png,,Destroi qualquer criatura,destruircriatura
-Mordida do Vampiro,2,Spell,Efeito 2,Black,Preto,C:/Users/luizh/PTG/art/mordidadovampiro.png,,Tira 2 de vida do adversário e dá para o jogador,mordidadovampiro
-Segunda Chance,2,Spell,Efeito 3,Black,Preto,C:/Users/luizh/PTG/art/segundachance.png,,Traz uma criatura destruída de volta ao jogo,segundachance
-Ilha,,Mana,,Blue,,C:/Users/luizh/PTG/art/ilha.png,,,ilha
-Pântano,,Mana,,Black,,C:/Users/luizh/PTG/art/pantano.png,,,pantano
-Montanha,,Mana,,Red,,C:/Users/luizh/PTG/art/montanha.png,,,montanha
-Planície,,Mana,,White,,C:/Users/luizh/PTG/art/planicie.png,,,planicie
-Floresta,,Mana,,Green,,C:/Users/luizh/PTG/art/floresta.png,,,floresta
-Vida,,Life,,,,C:/Users/luizh/PTG/art/vida.png,,,vida
+name,subtitle,cost,type,subtype,color,colorPT,art_file,strength,description,flavor_text,artfile_name,name_length,cardID,power_symbol,cost_symbol,power_symbol_old,cost_symbol_old
+Anão minerador,Criatura - Anão,1,Creature,Criatura comum 1,Red,Vermelho,C:/Users/luizh/PTG/art/anaominerador.png,1,,"Os anões vivem no coração da montanha, extraindo tesouros que os dragões invejam.",anaominerador,14,1,sword ,fire ,⚔,🔥
+Lagarto de fogo,Criatura - Lagarto,1,Creature,Criatura comum 2,Red,Vermelho,C:/Users/luizh/PTG/art/lagartodefogo.png,1,,"Criado nas chamas, usa o poder do fogo para batalhar.",lagartodefogo,15,2,sword ,fire ,⚔,🔥
+Duende Verde,Criatura - Duende,1,Creature,Criatura comum 3,Red,Vermelho,C:/Users/luizh/PTG/art/duendeverde.png,1,,"Escondido entre as montanhas, suas travessuras são tão mortais quanto silenciosas.",duendeverde,12,3,sword ,fire ,⚔,🔥
+Leão Flamejante,Criatura - Leão,2,Creature,Criatura rara 1,Red,Vermelho,C:/Users/luizh/PTG/art/leaoflamejante.png,2,,"Sua juba é fogo vivo, e cada rugido espalha brasas sobre o campo de batalha.",leaoflamejante,15,4,sword sword ,fire fire ,⚔⚔,🔥🔥
+Rinoceronte de batalha,Criatura - Rinoceronte,2,Creature,Criatura rara 2,Red,Vermelho,C:/Users/luizh/PTG/art/rinocerontedebatalha.png,2,,"Quando dispara, o solo treme e nada fica em pé em seu caminho.",rinocerontedebatalha,22,5,sword sword ,fire fire ,⚔⚔,🔥🔥
+Exército de Orcs,Criatura - Orc,2,Creature,Criatura rara 3,Red,Vermelho,C:/Users/luizh/PTG/art/exercitodeorcs.png,2,,"Juntos, eles são como uma maré de sangue e ferro que tudo devora.",exercitodeorcs,16,6,sword sword ,fire fire ,⚔⚔,🔥🔥
+Dragão de Cobre,Criatura Lendária - Dragão,3,Creature,Criatura épica 1,Red,Vermelho,C:/Users/luizh/PTG/art/dragaodecobre.png,3,,"Metálico e voraz, guarda tesouros que só a coragem pode reivindicar.",dragaodecobre,15,7,sword sword sword ,fire fire fire ,⚔⚔⚔,🔥🔥🔥
+Dragão Branco Ancião,Criatura Lendária - Dragão,3,Creature,Criatura épica 2,Red,Vermelho,C:/Users/luizh/PTG/art/dragaobrancodeolhosazuis.png,3,,"Um antigo sábio dos céus, cuja fúria é tão fria quanto a neve.",dragaobrancodeolhosazuis,20,8,sword sword sword ,fire fire fire ,⚔⚔⚔,🔥🔥🔥
+"Lucas, Domador de Dragões",Comandante Lendário - Lucas,4,Creature,Criatura lendária,Red,Vermelho,C:/Users/luizh/PTG/art/lucas.png,5,,"Ele cresceu junto com as feras aladas, que obedecem a todos os seus comandos",lucas,25,9,sword sword sword sword sword ,fire fire fire fire ,⚔⚔⚔⚔⚔,🔥🔥🔥🔥
+Bola de fogo,Feitiço,3,Spell,Efeito 1,Red,Vermelho,C:/Users/luizh/PTG/art/boladefogo.png,,2 de dano em 3 criaturas diferentes,Uma explosão ardente que causa 2 de dano em até 3 criaturas diferentes.,boladefogo,12,10,fire fire |fire fire |fire fire ,fire fire fire ,🔥🔥|🔥🔥|🔥🔥,🔥🔥🔥
+Grito de batalha,Magia Instantânea,2,Spell,Efeito 2,Red,Vermelho,C:/Users/luizh/PTG/art/gritodebatalha.png,,+1 de força para todas criaturas nessa rodada,O clamor da guerra enche suas criaturas de coragem com +1 de poder nessa rodada.,gritodebatalha,16,11,+sword ,fire fire ,📣+⚔,🔥🔥
+Arremessar Criatura,Feitiço,1,Spell,Efeito 3,Red,Vermelho,C:/Users/luizh/PTG/art/arremessarcriatura.png,,sacrifica uma criatura para destruir uma criatura adversária,Sacrifique uma criatura aliada para eliminar uma criatura inimiga.,arremessarcriatura,19,12,skull sword ,fire ,💀⚔,🔥
+Papagaio Verde,Criatura - Papagaio,1,Creature,Criatura comum 1,Green,Verde,C:/Users/luizh/PTG/art/papagaioverde.png,1,,Repete segredos antigos em línguas que apenas as árvores entendem.,papagaioverde,14,13,sword ,tree ,⚔,🌳
+Onça-Pintada,Criatura - Onça,1,Creature,Criatura comum 2,Green,Verde,C:/Users/luizh/PTG/art/oncapintada.png,1,,O som de suas patas é o último sussurro que muitos ouvirão.,oncapintada,12,14,sword ,tree ,⚔,🌳
+Mico-Leão Dourado,Criatura - Macaco,1,Creature,Criatura comum 3,Green,Verde,C:/Users/luizh/PTG/art/micoleaodourado.png,1,,"Pequeno rei da mata, sua coragem ofusca seu tamanho.",micoleaodourado,17,15,sword ,tree ,⚔,🌳
+Baiana,Criatura - Entidade,2,Creature,Criatura rara 1,Green,Verde,C:/Users/luizh/PTG/art/baiana.png,2,,"Portadora de sabedoria ancestral, dança com a fúria dos ventos.",baiana,6,16,sword sword ,tree tree ,⚔⚔,🌳🌳
+Pomba-Gira,Criatura - Entidade,2,Creature,Criatura rara 2,Green,Verde,C:/Users/luizh/PTG/art/pombagira.png,2,,Espírito indomável que guia e confunde corações perdidos.,pombagira,10,17,sword sword ,tree tree ,⚔⚔,🌳🌳
+Preto-Velho,Criatura - Entidade,2,Creature,Criatura rara 3,Green,Verde,C:/Users/luizh/PTG/art/pretovelho.png,2,,Sábio que sussurra conselhos vindos do outro lado do tempo.,pretovelho,11,18,sword sword ,tree tree ,⚔⚔,🌳🌳
+"Iansã, Senhora dos Raios",Criatura Lendária - Orixá,3,Creature,Criatura épica 1,Green,Verde,C:/Users/luizh/PTG/art/iansa.png,3,,"Rainha das tempestades, seus raios são ordens divinas.",iansa,24,19,sword sword sword ,tree tree tree ,⚔⚔⚔,🌳🌳🌳
+"Oxóssi, Dono da Mata",Criatura Lendária - Orixá,3,Creature,Criatura épica 2,Green,Verde,C:/Users/luizh/PTG/art/oxossi.png,3,,"Caçador supremo, acerta seu alvo sem jamais ser visto.",oxossi,20,20,sword sword sword ,tree tree tree ,⚔⚔⚔,🌳🌳🌳
+"Vanessa, a Sacerdotisa",Comandante Lendária - Vanessa,4,Creature,Criatura lendária,Green,Verde,C:/Users/luizh/PTG/art/vanessa.png,5,,Suas preces e conhecimentos controlam as forças da natureza para fortalecer seus aliados.,vanessa,22,21,sword sword sword sword sword ,tree tree tree tree ,⚔⚔⚔⚔⚔,🌳🌳🌳🌳
+Chamado da Alcateia,Feitiço,2,Spell,Efeito 1,Green,Verde,C:/Users/luizh/PTG/art/chamadodaalcateia.png,,baixa uma criatura da mão de graça,"Ao uivo da alcateia, uma criatura vem de graça da sua mão para o jogo",chamadodaalcateia,19,22,wolf,tree tree ,🐺,🌳🌳
+Cura da Natureza,Feitiço,2,Spell,Efeito 2,Green,Verde,C:/Users/luizh/PTG/art/curadanatureza.png,,recupera 3 pontos de vida do jogador,Do ventre da terra brota a magia que cura 3 pontos de vida do jogador.,curadanatureza,16,23,heart heart heart,tree tree ,💚💚💚,🌳🌳
+Força Selvagem,Magia Instantânea,2,Spell,Efeito 3,Green,Verde,C:/Users/luizh/PTG/art/forcaselvagem.png,,+1 de força para uma criatura para sempre,"A selvageria latente acorda, dando +1 de poder para uma criatura para sempre.",forcaselvagem,14,24,muscle+sword ,tree tree ,💪+⚔,🌳🌳
+Água-Viva Espectral,Criatura - Espectro,1,Creature,Criatura comum 1,Blue,Azul,C:/Users/luizh/PTG/art/aguavivaespectral.png,1,,Um espírito do mar que envenena com um simples toque.,aguavivaespectral,19,25,sword ,droplet ,⚔,💧
+Urso Polar,Criatura - Urso,1,Creature,Criatura comum 2,Blue,Azul,C:/Users/luizh/PTG/art/ursopolar.png,1,,Manso como a neve até que sua ira seja despertada.,ursopolar,10,26,sword ,droplet ,⚔,💧
+Pirata da Perna de Pau,Criatura - Pirata,1,Creature,Criatura comum 3,Blue,Azul,C:/Users/luizh/PTG/art/piratadapernadepau.png,1,,Risos e piadas escondem a lâmina afiada do pirata.,piratadapernadepau,22,27,sword ,droplet ,⚔,💧
+"Merlot, Guardião da Torre",Criatura - Cão,2,Creature,Criatura rara 1,Blue,Azul,C:/Users/luizh/PTG/art/merlot.png,2,,"O maior companheiro do mago, guardião fiel de seu domínio.",merlot,25,28,sword sword ,droplet droplet ,⚔⚔,💧💧
+Tubarão-Martelo,Criatura - Tubarão,2,Creature,Criatura rara 2,Blue,Azul,C:/Users/luizh/PTG/art/tubaraomartelo.png,2,,Ninguém escapa de sua mordida feroz.,tubaraomartelo,15,29,sword sword ,droplet droplet ,⚔⚔,💧💧
+Princesa do gelo,Criatura - Maga,2,Creature,Criatura rara 3,Blue,Azul,C:/Users/luizh/PTG/art/princesadogelo.png,2,,Seu toque gela corações e congela armaduras.,princesadogelo,16,30,sword sword ,droplet droplet ,⚔⚔,💧💧
+Coruja das Neves,Criatura Lendária - Coruja,3,Creature,Criatura épica 1,Blue,Azul,C:/Users/luizh/PTG/art/corujadasneves.png,3,,"Olhos que tudo veem, mesmo na mais profunda escuridão.",corujadasneves,16,31,sword sword sword ,droplet droplet droplet ,⚔⚔⚔,💧💧💧
+Polvo Gigante,Criatura Lendária - Polvo,3,Creature,Criatura épica 2,Blue,Azul,C:/Users/luizh/PTG/art/polvogigante.png,3,,Das profundezas ele ergue tentáculos para arrastar navios ao abismo.,polvogigante,13,32,sword sword sword ,droplet droplet droplet ,⚔⚔⚔,💧💧💧
+"Luiz, Arquimago do Clã",Comandante Lendário - Luiz,4,Creature,Criatura lendária,Blue,Azul,C:/Users/luizh/PTG/art/luiz.png,5,,"Sábio entre os sábios, seus conhecimentos se manifestam em poderosos feitiços.",luiz,22,33,sword sword sword sword sword ,droplet droplet droplet droplet ,⚔⚔⚔⚔⚔,💧💧💧💧
+Contramágica,Magia Instantânea,1,Spell,Efeito 1,Blue,Azul,C:/Users/luizh/PTG/art/contramagica.png,,Anula uma mágica adversária,O feiticeiro mais sábio consegue anular uma mágica ou feitiço do adversário,contramagica,12,34,denial,droplet ,🚫,💧
+Pesquisa de campo,Feitiço,2,Spell,Efeito 2,Blue,Azul,C:/Users/luizh/PTG/art/pesquisadecampo.png,,Compra duas cartas,"Conhecimento é poder, compre duas cartas.",pesquisadecampo,17,35,card card,droplet droplet ,🎴🎴,💧💧
+Congelar,Feitiço,1,Spell,Efeito 3,Blue,Azul,C:/Users/luizh/PTG/art/congelar.png,,Vira criatura alvo,"Um sopro de inverno que congela um inimigo, virando-o. Ele não desvira na próxima rodada.",congelar,8,36,denial,droplet ,❄️,💧
+"Tracy, aranha-robô",Criatura - Robô,1,Creature,Criatura comum 1,White,Branco,C:/Users/luizh/PTG/art/tracy.png,1,,"Tecendo redes de aço, ela captura informação.",tracy,18,37,sword ,sun ,⚔,sun 
+"Capitão América, Vingador",Criatura - Herói,1,Creature,Criatura comum 2,White,Branco,C:/Users/luizh/PTG/art/capitaoamerica.png,1,,Seu escudo é símbolo de esperança para os oprimidos.,capitaoamerica,25,38,sword ,sun ,⚔,sun 
+"Batman, Homem-Morcego",Criatura - Herói,1,Creature,Criatura comum 3,White,Branco,C:/Users/luizh/PTG/art/batman.png,1,,"Das sombras, traz justiça com punhos implacáveis.",batman,21,39,sword ,sun ,⚔,sun 
+"Peter, Homem-Aranha",Criatura - Herói,2,Creature,Criatura rara 1,White,Branco,C:/Users/luizh/PTG/art/peter.png,2,,Com grande poder vem grande responsabilidade – e teia sem fim.,peter,19,40,sword sword ,sun sun ,⚔⚔,sun sun 
+"Gwen, Aranha-Fantasma",Criatura - Herói,2,Creature,Criatura rara 2,White,Branco,C:/Users/luizh/PTG/art/gwen.png,2,,"Entre dimensões, ela dança com leveza e coragem.",gwen,21,41,sword sword ,sun sun ,⚔⚔,sun sun 
+"Miles, o Spin",Criatura - Herói,2,Creature,Criatura rara 3,White,Branco,C:/Users/luizh/PTG/art/miles.png,2,,"Novo herói, nova energia, mesma vontade de salvar.",miles,13,42,sword sword ,sun sun ,⚔⚔,sun sun 
+Pantera-negra,Criatura - Herói,3,Creature,Criatura épica 1,White,Branco,C:/Users/luizh/PTG/art/panteranegra.png,3,,"Realeza e guerreiro, defende seu reino com unhas e garras.",panteranegra,24,43,sword sword sword ,sun sun sun ,⚔⚔⚔,sun sun sun 
+"Wolwerine, o Invencível",Criatura - Herói,3,Creature,Criatura épica 2,White,Branco,C:/Users/luizh/PTG/art/wolwerine.png,3,,Sua fúria e suas garras nunca deixam de se regenerar.,wolwerine,23,44,sword sword sword ,sun sun sun ,⚔⚔⚔,sun sun sun 
+"Pedro de Ferro, o Herói",Comandante Lendário - Pedro,4,Creature,Criatura lendária,White,Branco,C:/Users/luizh/PTG/art/pedrodeferro.png,5,,"Líder dos heróis, protege a cidade contra todos os males.",pedrodeferro,27,45,sword sword sword sword sword ,sun sun sun sun ,⚔⚔⚔⚔⚔,sun sun sun sun 
+Raio,Feitiço,2,Spell,Efeito 1,White,Branco,C:/Users/luizh/PTG/art/raio.png,,3 de dano em qualquer criatura,Um lampejo que parte o céu e dá 3 de dano a qualquer criatura,raio,4,46,sword sword sword,sun sun ,⚡⚡⚡,sun sun 
+Recrutar Soldados,Feitiço,1,Spell,Efeito 2,White,Branco,C:/Users/luizh/PTG/art/recrutarsoldados.png,,Invoca uma criatura de poder 2 por 1 round,"Recruta um soldado, essa carta é uma criatura de poder 2 por 1 round.",recrutarsoldados,17,47,helmet,sun ,🪖,sun 
+Escudo de Proteção,Magia Instantânea,2,Spell,Efeito 3,White,Branco,C:/Users/luizh/PTG/art/escudodeprotecao.png,,Protege uma criatura de todo dano essa rodada,Uma barreira invisível protege uma criatura de todo dano que receberia essa rodada.,escudodeprotecao,18,48,shield,sun sun ,🛡,sun sun 
+Esqueleto Arqueiro,Criatura - Esqueleto,1,Creature,Criatura comum 1,Black,Preto,C:/Users/luizh/PTG/art/esqueletoarqueiro.png,1,,Suas flechas atravessam as sombras sem distinção.,esqueletoarqueiro,18,49,sword ,skull ,⚔,💀
+Rato Gigante,Criatura - Rato,1,Creature,Criatura comum 2,Black,Preto,C:/Users/luizh/PTG/art/ratogigante.png,1,,"Multiplicam-se nas sombras, vorazes e incontroláveis.",ratogigante,12,50,sword ,skull ,⚔,💀
+Zumbi do Lago,Criatura - Zumbi,1,Creature,Criatura comum 3,Black,Preto,C:/Users/luizh/PTG/art/zumbidolago.png,1,,"Emergindo do lodo, traz consigo o silêncio da noite.",zumbidolago,13,51,sword ,skull ,⚔,💀
+Cavaleiro Fantasma,Criatura - Espectro,2,Creature,Criatura rara 1,Black,Preto,C:/Users/luizh/PTG/art/cavaleirofantasma.png,2,,Atravessa paredes e promessas para cumprir seu juramento.,cavaleirofantasma,18,52,sword sword ,skull skull ,⚔⚔,💀💀
+General Esqueleto,Criatura - Esqueleto,2,Creature,Criatura rara 2,Black,Preto,C:/Users/luizh/PTG/art/generalesqueleto.png,2,,Comanda legiões de ossos com punho firme e vazio.,generalesqueleto,17,53,sword sword ,skull skull ,⚔⚔,💀💀
+Ninja das Sombras,Criatura - Ninja,2,Creature,Criatura rara 3,Black,Preto,C:/Users/luizh/PTG/art/ninjadassombras.png,2,,Ninguém vê sua lâmina até sentir o corte.,ninjadassombras,17,54,sword sword ,skull skull ,⚔⚔,💀💀
+Lobisomem Arruaceiro,Criatura Lendária - Lobisomem,3,Creature,Criatura épica 1,Black,Preto,C:/Users/luizh/PTG/art/lobisomem.png,3,,"Sob a lua cheia, perde a razão e ganha poder.",lobisomem,20,55,sword sword sword ,skull skull skull ,⚔⚔⚔,💀💀💀
+Dragão Zumbi,Criatura Lendária - Dragão,3,Creature,Criatura épica 2,Black,Preto,C:/Users/luizh/PTG/art/dragaozumbi.png,3,,O fogo alado continua na noite eterna.,dragaozumbi,12,56,sword sword sword ,skull skull skull ,⚔⚔⚔,💀💀💀
+"Conde Drácula, o Vampiro",Comandante Lendário - Drácula,4,Creature,Criatura lendária,Black,Preto,C:/Users/luizh/PTG/art/condedracula.png,5,,"Nobre e amaldiçoado, busca sangue para saciar a sua fome eterna.",condedracula,24,57,sword sword sword sword sword ,skull skull skull skull ,⚔⚔⚔⚔⚔,💀💀💀💀
+Destruir Criatura,Feitiço,2,Spell,Efeito 1,Black,Preto,C:/Users/luizh/PTG/art/destruircriatura.png,,Destroi qualquer criatura,"Com um gesto, destrói qualquer criatura do adversário.",destruircriatura,17,58,explosion,skull skull ,💣,💀💀
+Mordida do Vampiro,Feitiço,2,Spell,Efeito 2,Black,Preto,C:/Users/luizh/PTG/art/mordidadovampiro.png,,Tira 2 de vida do adversário e dá para o jogador,Um beijo sombrio tira 2 pontos de vida do adversário e dá para o jogador.,mordidadovampiro,18,59,drop drop,skull skull ,🩸🩸,💀💀
+Segunda Chance,Feitiço,2,Spell,Efeito 3,Black,Preto,C:/Users/luizh/PTG/art/segundachance.png,,Traz uma criatura destruída de volta ao jogo,Nem todos os fins são eternos; traz uma criatura destruída de volta para o jogo.,segundachance,14,60,skull heart,skull skull ,🔁,💀💀
+Ilha,,,Mana,,Blue,,C:/Users/luizh/PTG/art/ilha.png,,,Os mares guardam segredos e energia em cada onda.,ilha,4,61,droplet,droplet ,💧,💧
+Pântano,,,Mana,,Black,,C:/Users/luizh/PTG/art/pantano.png,,,,pantano,7,62,skull ,skull ,💀,💀
+Montanha,,,Mana,,Red,,C:/Users/luizh/PTG/art/montanha.png,,,,montanha,8,63,fire ,fire ,🔥,🔥
+Planície,,,Mana,,White,,C:/Users/luizh/PTG/art/planicie.png,,,,planicie,8,64,sun,sun ,sun ,sun 
+Floresta,,,Mana,,Green,,C:/Users/luizh/PTG/art/floresta.png,,,,floresta,8,65,tree,tree ,🌳,🌳
+Vida,,,Life,,White,,C:/Users/luizh/PTG/art/vida.png,,,,vida,4,66,heart,sun ,❤️,sun 
