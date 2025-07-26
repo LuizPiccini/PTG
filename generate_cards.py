@@ -19,6 +19,7 @@ from PIL import Image, ImageDraw, ImageFont, ImageOps
 # ── layout & assets ──────────────────────────────────────────────────────
 DPI = 300
 CARD_W, CARD_H = 744, 1039  # 63 × 88 mm
+EXPORT_W, EXPORT_H = 815, 1110      # 69 × 94 mm (with bleed) 
 TITLE_FONT_PT  = 9          # ≈50 pt @300 dpi
 
 ART_BOX      = (64, 164, 680, 650)
@@ -155,7 +156,9 @@ def draw_card(card: dict, out_dir: str):
         y += italic_font.size + gap
 
     out_path = Path(out_dir)/f"{slugify(card['name'])}.jpg"
-    canvas.convert("RGB").save(out_path, dpi=(DPI,DPI), quality=95, optimize=True, progressive=True)
+    export_img = canvas.resize((EXPORT_W, EXPORT_H), Image.LANCZOS)
+    export_img.convert("CMYK").save(
+        out_path, dpi=(DPI, DPI), quality=95, optimize=True, progressive=True)
     print("Saved", card["name"])
 
 
